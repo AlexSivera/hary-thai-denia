@@ -1,0 +1,15 @@
+{
+  "name": "Hary Thai · masaje tailandés",
+  "short_name": "Hary Thai",
+  "start_url": "/hary-thai-denia/",
+  "display": "browser",
+  "background_color": "#3A1525",
+  "theme_color": "#3A1525",
+  "icons": [
+    {
+      "src": "/hary-thai-denia/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
