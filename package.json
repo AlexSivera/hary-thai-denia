@@ -1,0 +1,17 @@
+{
+  "name": "hary-thai-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web de Hary Thai, masaje tailandés en Dénia. Generador estático en Node; sharp sólo para preparar imágenes.",
+  "type": "module",
+  "scripts": {
+    "images": "node scripts/images.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=18" },
+  "devDependencies": {
+    "sharp": "^0.34.5"
+  }
+}

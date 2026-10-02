@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.playwright-mcp/
+.claude/
+# Material de investigación (incluye fotos y reseñas de terceros): no se publica
+research/
